@@ -1,0 +1,9 @@
+name: FlamableTorches
+version: 1
+main: me.banjer_hd.plugins.FlamableTorches.Main
+api-version: 1.14
+
+commands:
+  ban:
+    description: Ban an user
+    usage: /ban <user>
